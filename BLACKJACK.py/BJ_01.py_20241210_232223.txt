@@ -1,0 +1,1 @@
+BJ_01.py contains sensitive info that your organization is protecting with the data loss prevention (DLP) policy  and was moved to the quarantine folder: C:\Users\JIMENEZM\Microsoft DLP\Quarantine\OneDrive\BJ_01_20241210_232223.py.
