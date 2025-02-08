@@ -1,0 +1,11 @@
+{
+    "tamaño": "mediana",
+    "precio": 15.67,
+    "topping": ["champinones","queso extra","peperoni","albahaca"],
+    "cliente":{
+        "nombre": "Jane Doe",
+        "telefono": "455-344-234",
+        "correo": "joedoe@email.com"
+    }
+
+}
